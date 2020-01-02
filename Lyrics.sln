@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lyrics", "Lyrics\Lyrics.csproj", "{99F42000-2B2D-4078-B18D-EAB692026F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify", "Spotify\Spotify.csproj", "{6BCBE049-08C8-41A3-81EB-7C7AF48EC836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{9A8C5D8C-09BB-4FCD-9EDE-28122CAA3C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify.Services", "Spotify.Services\Spotify.Services.csproj", "{8A4515F7-EF4C-4137-A606-72184C7C2796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F42000-2B2D-4078-B18D-EAB692026F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F42000-2B2D-4078-B18D-EAB692026F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F42000-2B2D-4078-B18D-EAB692026F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F42000-2B2D-4078-B18D-EAB692026F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCBE049-08C8-41A3-81EB-7C7AF48EC836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCBE049-08C8-41A3-81EB-7C7AF48EC836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCBE049-08C8-41A3-81EB-7C7AF48EC836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCBE049-08C8-41A3-81EB-7C7AF48EC836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8C5D8C-09BB-4FCD-9EDE-28122CAA3C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8C5D8C-09BB-4FCD-9EDE-28122CAA3C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8C5D8C-09BB-4FCD-9EDE-28122CAA3C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8C5D8C-09BB-4FCD-9EDE-28122CAA3C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4515F7-EF4C-4137-A606-72184C7C2796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4515F7-EF4C-4137-A606-72184C7C2796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4515F7-EF4C-4137-A606-72184C7C2796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4515F7-EF4C-4137-A606-72184C7C2796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FFE6DB-0A6E-48A1-91E3-0281D914EABA}
+	EndGlobalSection
+EndGlobal

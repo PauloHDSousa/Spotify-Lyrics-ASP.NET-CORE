@@ -1,0 +1,17 @@
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\bin\Debug\netstandard2.0\Spotify.Services.deps.json
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\bin\Debug\netstandard2.0\Spotify.Services.dll
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\bin\Debug\netstandard2.0\Spotify.Services.pdb
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.csproj.CoreCompileInputs.cache
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.AssemblyInfoInputs.cache
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.AssemblyInfo.cs
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.dll
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.pdb
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\bin\Debug\netstandard2.0\Spotify.Services.deps.json
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\bin\Debug\netstandard2.0\Spotify.Services.dll
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\bin\Debug\netstandard2.0\Spotify.Services.pdb
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.csprojAssemblyReference.cache
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.csproj.CoreCompileInputs.cache
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.AssemblyInfoInputs.cache
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.AssemblyInfo.cs
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.dll
+C:\Users\psousa\Documents\GitHub\Lyrics\Spotify-Lyrics-ASP.NET-CORE\Spotify.Services\obj\Debug\netstandard2.0\Spotify.Services.pdb
